@@ -1,0 +1,31 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Laode\bin\Debug\Laode.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Laode\bin\Debug\Laode.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\Laode\bin\Debug\Laode.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Laode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Laode\obj\Debug\Laode.Flogin.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Laode\obj\Debug\Laode.Fregister.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Laode\obj\Debug\Laode.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Laode\obj\Debug\Laode.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Laode\obj\Debug\Laode.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Laode\obj\Debug\Laode.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Laode\obj\Debug\Laode.pdb
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.exe
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.xml
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.pdb
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\bin\Debug\Laode.exe
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\bin\Debug\Laode.pdb
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\bin\Debug\Laode.xml
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\ResolveAssemblyReference.cache
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.Flogin.resources
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.Fregister.resources
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.Resources.resources
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.vbproj.GenerateResource.Cache
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.FNomor.resources
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Interop.WMPLib.dll
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\AxInterop.WMPLib.dll
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.vbproj.ResolveComReference.cache
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\bin\Debug\Interop.WMPLib.dll
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\bin\Debug\AxInterop.WMPLib.dll
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.FDisplay.resources
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.FCS.resources
+K:\SEMESTER 4\MODEL DAN SIMULASI\Laode\Laode\obj\Debug\Laode.Fprofile.resources
